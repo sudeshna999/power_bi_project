@@ -30,7 +30,8 @@ ETL Pipelines - For data extraction, transformation, and loading.
 
 📷 Dashboard Preview
 
-(Add screenshots of your Power BI dashboard here to showcase its functionality.)
+![image](https://github.com/user-attachments/assets/d034abb3-6375-45f1-a19e-dec93521fc97)
+
 
 📂 Project Workflow
 
